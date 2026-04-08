@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Afazur Rahman</h1>
+<h1 align="center">Hi,👋 I'm Afazur Rahman</h1>
 
 ![I am a Web Developer and Programmer](https://i.postimg.cc/R0CCtT6s/Github-banner.png)
 
