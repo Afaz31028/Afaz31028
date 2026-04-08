@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afazur Rahman</h1>
 <h3 align="center">A MERN STACK DEVELOPER AND PROGRAMMER</h3>
 
-![I am a Web Developer and Programmer](https://scontent.fdac31-2.fna.fbcdn.net/v/t39.30808-6/497757536_2371514693218880_8718745087584771296_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeHECRJMNXP30A4vNTq996km2Zx8IMvs6MXZnHwgy-zoxdcGFm7E2vcTgCe8JjxJ_CjN4PymqqXujiHFgFmmhTum&_nc_ohc=VQCejW_2rbcQ7kNvwFDJ1EV&_nc_oc=AdrYSJGEWubDpHqO5GHw-iV_9QA_-rMLXsFq0cT6NDA1sealWQyGBjQjbxhpGB_6LiQ&_nc_zt=23&_nc_ht=scontent.fdac31-2.fna&_nc_gid=00H0AUXLgWMoTke5Q4mPQA&_nc_ss=7a3a8&oh=00_Af30nNjE2CMf_tUbbgfzLMMAq7BaLDLQEU8h1fuJ6LeZVQ&oe=69DC0763)
+![I am a Web Developer and Programmer](https://i.ibb.co.com/s8qWc3B/Github-banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afaz31028&label=Profile%20views&color=0e75b6&style=flat" alt="afaz31028" /> </p>
 
