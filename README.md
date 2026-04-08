@@ -3,7 +3,7 @@
 ![I am a Web Developer and Programmer](https://i.postimg.cc/R0CCtT6s/Github-banner.png)
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub;I'm+Afazur+Rahman;Trust+on+Your+Best+Solution" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub;I'm+Afazur+Rahman;Trust+on+Your+Best+Solution" />
 </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afaz31028&label=Profile%20views&color=0e75b6&style=flat" alt="afaz31028" /> </p>
