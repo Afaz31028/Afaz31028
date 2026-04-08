@@ -1,6 +1,10 @@
-<h1 align="center">Hi,👋 I'm Afazur Rahman</h1>
+<h1 align="center">Hi,👋 What's Up</h1>
 
 ![I am a Web Developer and Programmer](https://i.postimg.cc/R0CCtT6s/Github-banner.png)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub;I'm+Afazur+Rahman;Trust+on+Your+Best+Solution" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afaz31028&label=Profile%20views&color=0e75b6&style=flat" alt="afaz31028" /> </p>
 
@@ -17,9 +21,6 @@
 ### About Me:
 I am a passionate beginner web developer and programmer with a strong interest in building modern and responsive web applications. I started my journey with C and C++, which helped me develop solid problem-solving skills, and later expanded my knowledge to Java and JavaScript. I enjoy working with frontend technologies like React, Tailwind CSS, and Bootstrap, along with backend tools such as MongoDB. Currently, I am exploring Next.js and TypeScript to enhance my ability to create scalable and efficient full-stack applications.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub;I'm+Afazur+Rahman;Trust+on+Your+Best+Solution" />
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
