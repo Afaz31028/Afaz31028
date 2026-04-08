@@ -30,5 +30,6 @@ I am a passionate beginner web developer and programmer with a strong interest i
 
 <p></p>
 <p></p>
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Afaz31028)  
 
