@@ -15,6 +15,9 @@
 
 - 📫 How to reach me **afazurr8@gmail.com**
 
+- ### About Me:
+- I am a passionate beginner web developer and programmer with a strong interest in building modern and responsive web applications. I started my journey with C and C++, which helped me develop solid problem-solving skills, and later expanded my knowledge to Java and JavaScript. I enjoy working with frontend technologies like React, Tailwind CSS, and Bootstrap, along with backend tools such as MongoDB. Currently, I am exploring Next.js and TypeScript to enhance my ability to create scalable and efficient full-stack applications.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/afazur rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afazur rahman" height="30" width="40" /></a>
@@ -29,28 +32,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afaz31028&show_icons=true&locale=en&layout=compact" alt="afaz31028" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afaz31028&show_icons=true&locale=en" alt="afaz31028" /></p>
-
-
-### Hi there 👋, I'm Afazur Rahman
-#### I am a Web Developer and Programmer
-![I am a Web Developer and Programmer](https://i.ibb.co.com/s8qWc3B/Github-banner.png)
-
-I am a passionate beginner web developer and programmer with a strong interest in building modern and responsive web applications. I started my journey with C and C++, which helped me develop solid problem-solving skills, and later expanded my knowledge to Java and JavaScript. I enjoy working with frontend technologies like React, Tailwind CSS, and Bootstrap, along with backend tools such as MongoDB. Currently, I am exploring Next.js and TypeScript to enhance my ability to create scalable and efficient full-stack applications.
-
-
-Skills: C/ C++/ Java/ JavaScript/ React/ MongDB/ MySQL/ Bootstrap/ Tailwind
-
-- 🌱 I’m currently learning Next.js 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about C++, JavaScript, React and MongoDB 
-- 📫 How to reach me: afazurr8@gmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Afaz31028)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/afaz31028/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/afazur.rahman.524)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afaz31028)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Afaz31028&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Afaz31028)  
 
