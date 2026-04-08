@@ -17,6 +17,10 @@
 ### About Me:
 I am a passionate beginner web developer and programmer with a strong interest in building modern and responsive web applications. I started my journey with C and C++, which helped me develop solid problem-solving skills, and later expanded my knowledge to Java and JavaScript. I enjoy working with frontend technologies like React, Tailwind CSS, and Bootstrap, along with backend tools such as MongoDB. Currently, I am exploring Next.js and TypeScript to enhance my ability to create scalable and efficient full-stack applications.
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub;I'm+Afazur+Rahman;Trust+on+Your+Best+Solution" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div align="left">
