@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **afazurr8@gmail.com**
 
-- ### About Me:
+### About Me:
 - I am a passionate beginner web developer and programmer with a strong interest in building modern and responsive web applications. I started my journey with C and C++, which helped me develop solid problem-solving skills, and later expanded my knowledge to Java and JavaScript. I enjoy working with frontend technologies like React, Tailwind CSS, and Bootstrap, along with backend tools such as MongoDB. Currently, I am exploring Next.js and TypeScript to enhance my ability to create scalable and efficient full-stack applications.
 
 <h3 align="left">Connect with me:</h3>
