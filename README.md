@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Afazur Rahman</h1>
 <h3 align="center">A MERN STACK DEVELOPER AND PROGRAMMER</h3>
 
+![I am a Web Developer and Programmer](https://i.ibb.co.com/s8qWc3B/Github-banner.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afaz31028&label=Profile%20views&color=0e75b6&style=flat" alt="afaz31028" /> </p>
 
 - 🔭 I’m currently working on [Explore-React-Form](https://github.com/Afaz31028/explore-react-form.git)
